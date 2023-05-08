@@ -6,6 +6,10 @@ body {
   font-family: "Inter";
   font-style: normal;
 }
+img {
+  height: auto;
+  width: 100%;
+}
 .top-header {
   background-color: #fff;
   position: sticky;
@@ -60,6 +64,7 @@ body {
 }
 .picture img {
   width: 100%;
+  height: auto;
 }
 #about-me {
   flex: 2;
